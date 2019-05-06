@@ -1,0 +1,7 @@
+name: lafti11
+author: mcg
+version: Beta 1.0
+main: de.mcg.latif.Core
+
+commnads:
+     lafti11:
